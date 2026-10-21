@@ -1,0 +1,27 @@
+# 数据处理
+pandas
+numpy
+pyarrow
+
+# 数据库
+sqlalchemy
+duckdb
+duckdb-engine
+
+# 文本分析
+scikit-learn
+nltk
+spacy
+
+# 可视化
+matplotlib
+seaborn
+plotly
+
+# Notebook
+jupyter
+ipykernel
+
+# 其他
+tqdm
+openpyxl
